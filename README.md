@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 👨‍💻 All of my projects are available at [https://chiragtyagi.netlify.com](https://chiragtyagi.netlify.com)
+- 👨‍💻 All of my projects are available at [https://chiragtyagi.netlify.app](https://chiragtyagi.netlify.app)
 
 - 📝 I regularly write articles on [nifty.net.in](nifty.net.in)
 
